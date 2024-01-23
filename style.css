@@ -1,0 +1,81 @@
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa-instagram {
+    background: rgb(68, 8, 8) ;
+    color: white;
+  }
+  .fa-linkedin {
+    background: rgb(68, 8, 8) ;
+    color: white;
+  }
+.title {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 45px;
+    font-family: 'Afacad';
+    background-color: #003c1837;
+    color: black;
+    border-radius: 10px;
+}
+.smedia{
+    text-align: right;
+    margin-right: 150px;
+}
+.intro {
+    font-size: 35px;
+    font-family: 'Afacad';
+    font-style: italic;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    background-color: rgb(199, 188, 173);
+    border-radius: 10px;
+}
+.flexitems{
+    flex:  0 1 auto;
+    align-self: center;
+    order: 2; 
+}
+img{
+    border: 20px double rgb(68, 8, 8) ;
+  
+}
+.aboutme{
+    font-family: 'Afacad';
+    font-size: 25px;
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 30px;
+}
+.pagelink{
+    text-align: center;
+    font-family: 'Afacad';
+    font-size: 28px;
+    background-color: rgb(82, 23, 23);
+    margin-top: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.link{
+    color:#f0f8ff;
+    text-decoration: none ;
+    
+}
+
+body {
+   
+
+    transition: background-color 0.5s ease-in-out;
+ }
